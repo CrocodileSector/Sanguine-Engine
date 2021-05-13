@@ -1,0 +1,2 @@
+C:\Users\Vlad\Desktop\Sanguine\Sanguine\3rdparty\GLFW\bin\Debug-windows-x86_64\GLFW\GLFW.pdb
+C:\Users\Vlad\Desktop\Sanguine\Sanguine\3rdparty\GLFW\bin-int\Debug-windows-x86_64\GLFW\GLFW.pdb

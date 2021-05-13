@@ -1,0 +1,2 @@
+C:\Users\Vlad\Desktop\Sanguine\Sanguine\3rdparty\yaml-cpp\bin\Debug-windows-x86_64\yaml-cpp\yaml-cpp.pdb
+C:\Users\Vlad\Desktop\Sanguine\Sanguine\3rdparty\yaml-cpp\bin-int\Debug-windows-x86_64\yaml-cpp\yaml-cpp.pdb

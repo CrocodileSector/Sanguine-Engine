@@ -1,0 +1,129 @@
+Scene: Untitled
+Entities:
+  - Entity: 8
+    TagComponent:
+      Tag: barrel
+    TransformComponent:
+      Translation: [5, 1, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshComponent:
+      Type: 4
+      Color: [0, 0, 0, 0]
+      Filepath: C:\Users\Vlad\Desktop\Sanguine\Sandbox\assets\models\Props\oildrum.obj
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: C:/Users/Vlad/Desktop/Sanguine/Sandbox/assets/models/Props//oildrum_col.jpg
+  - Entity: 7
+    TagComponent:
+      Tag: teapot
+    TransformComponent:
+      Translation: [1, 1, 1]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshComponent:
+      Type: 3
+      Color: [-431602080, -431602080, -431602080, -431602080]
+      Filepath: ""
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: assets/textures//default.png
+  - Entity: 6
+    TagComponent:
+      Tag: sphere
+    TransformComponent:
+      Translation: [3, 3, 3]
+      Rotation: [0, 0, 0]
+      Scale: [2, 2, 2]
+    MeshComponent:
+      Type: 1
+      Color: [-431602080, -431602080, -431602080, -431602080]
+      Filepath: ""
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: assets/textures//particle.png
+  - Entity: 5
+    TagComponent:
+      Tag: cube
+    TransformComponent:
+      Translation: [3, 1, 3]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshComponent:
+      Type: 0
+      Color: [-431602080, -431602080, -431602080, -431602080]
+      Filepath: ""
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: assets/textures//blue.jpg
+  - Entity: 4
+    TagComponent:
+      Tag: room
+    TransformComponent:
+      Translation: [0, 50, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshComponent:
+      Type: 2
+      Color: [-431602080, -431602080, -431602080, -431602080]
+      Filepath: ""
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: assets/textures//black.jpg
+  - Entity: 3
+    TagComponent:
+      Tag: room
+    TransformComponent:
+      Translation: [25, 25, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshComponent:
+      Type: 2
+      Color: [-431602080, -431602080, -431602080, -431602080]
+      Filepath: ""
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: assets/textures//black.jpg
+  - Entity: 2
+    TagComponent:
+      Tag: room
+    TransformComponent:
+      Translation: [0, 25, 25]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshComponent:
+      Type: 2
+      Color: [-431602080, -431602080, -431602080, -431602080]
+      Filepath: ""
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: assets/textures//black.jpg
+  - Entity: 1
+    TagComponent:
+      Tag: room
+    TransformComponent:
+      Translation: [0, 25, -25]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshComponent:
+      Type: 2
+      Color: [-431602080, -431602080, -431602080, -431602080]
+      Filepath: ""
+      Material:
+        Ambient: 0.100000001
+        Specular: 0.5
+        TexturePath: assets/textures//black.jpg
+  - Entity: 0
+    TagComponent:
+      Tag: room
+    TransformComponent:
+      Translation: [0, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
